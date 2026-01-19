@@ -1,0 +1,60 @@
+{
+  "audio_file": "/Users/itdragons/Downloads/multi-speaker.wav",
+  "duration": 13.44,
+  "speakers": 2,
+  "segments": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.008488964346349746,
+      "end": 3.1154499151103567,
+      "text": "我听到Google Cloud的多声音效果很棒。"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3.811544991511036,
+      "end": 4.151103565365025,
+      "text": "哦。"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 4.711375212224109,
+      "end": 5.64516129032258,
+      "text": "这很棒 Relationships"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 6.239388794567063,
+      "end": 6.6298811544991505,
+      "text": "哇。"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 7.292020373514431,
+      "end": 7.750424448217318,
+      "text": "什么?"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.903225806451614,
+      "end": 9.193548387096776,
+      "text": "你应该自己找到吧。"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 11.587436332767403,
+      "end": 13.38709677419355,
+      "text": "好,来试试看。"
+    }
+  ],
+  "statistics": {
+    "SPEAKER_00": {
+      "total_duration": 4.787775891341257,
+      "segment_count": 3
+    },
+    "SPEAKER_01": {
+      "total_duration": 3.531409168081494,
+      "segment_count": 4
+    }
+  },
+  "timestamp": "2026-01-16T17:40:57.955036"
+}
